@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Go build binary, build with `go build main.go`
+main
+cmd
+bin/main
+bin/cmd
