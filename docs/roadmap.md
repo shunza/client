@@ -4,11 +4,11 @@ Client RoadMap.
 
 ## Memcache
 
-[] GET
-[] SET
-[] GETS
+- [ ] GET
+- [ ] SET
+- [ ] GETS
 
 ## Redis
 
-[] GET
-[] SET
+- [ ] GET
+- [ ] SET
